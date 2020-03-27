@@ -36,8 +36,8 @@ namespace NewSite_URL_Available
         {
 
             // O365 Tenant
-            var appid = "6f774955-1a5a-4639-b07e-d7df9cc16f5b";
-            var appsecret = "SQOgbwKp4bk5hhOLJ8IMD7N2cQJzpQBdpGFiHWIwELk=";
+            var appid = "-- APP ID HERE --";
+            var appsecret = "-- APP SECRET HERE --";
 
 
             // SPO Target
